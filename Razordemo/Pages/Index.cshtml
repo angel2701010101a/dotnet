@@ -10,12 +10,24 @@
     <p>
         Lista de personas
     </p>
+    <style>
+        .p1
+        {
+            background-color: grey;
+        }
+        table,th,td 
+        {
+            border:1px solid black;
+            margin: 0 auto;
+        }
+    </style>
     <table border>
         <thead>
             <tr>
-                <th>Nombre</th>
-                <th>Edad</th>
-                <th>Telefono</th>
+                <th class="p1">Nombre</th>
+                <th class="p1">Edad</th>
+                <th class="p1">Telefono</th>
+                <th class="p1" colspan="2">Modificacion</th>
             </tr>
         </thead>
         <tbody>
@@ -25,6 +37,8 @@
                     <td>@p.Nombre</td>
                     <td>@p.Edad</td>
                     <td>@p.Telefono</td>
+                    <td><input type="button" value="modificar"></td>
+                    <td><input type="button" value="eliminar"></td>
                 </tr>
             }
         </tbody>

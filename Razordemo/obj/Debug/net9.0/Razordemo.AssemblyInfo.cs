@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Razordemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3fe5c81aa9f9a300c7f790097ba33e36475a06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c738eed74f2a2e4ee14edbeed7aeeca7872a2d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Razordemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Razordemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
