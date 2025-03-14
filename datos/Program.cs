@@ -16,9 +16,9 @@ class Program
         // Agregar fila
         DataRow row1 = tbl.NewRow();
         row1["id"] = 1;
-        row1["nombre"] = "fulano";
-        row1["edad"] = 48;
-        row1["telefono"] = "5541885810";
+        row1["nombre"] = "Angel";
+        row1["edad"] = 24;
+        row1["telefono"] = "5522987755";
 
         tbl.Rows.Add(row1);
 
