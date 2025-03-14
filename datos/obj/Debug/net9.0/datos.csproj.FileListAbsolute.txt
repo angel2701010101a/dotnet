@@ -1,0 +1,15 @@
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.AssemblyInfo.cs
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.sourcelink.json
+C:\Users\Angel\Documents\dotnet\datos\bin\Debug\net9.0\datos.exe
+C:\Users\Angel\Documents\dotnet\datos\bin\Debug\net9.0\datos.deps.json
+C:\Users\Angel\Documents\dotnet\datos\bin\Debug\net9.0\datos.runtimeconfig.json
+C:\Users\Angel\Documents\dotnet\datos\bin\Debug\net9.0\datos.dll
+C:\Users\Angel\Documents\dotnet\datos\bin\Debug\net9.0\datos.pdb
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.dll
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\refint\datos.dll
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.pdb
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\datos.genruntimeconfig.cache
+C:\Users\Angel\Documents\dotnet\datos\obj\Debug\net9.0\ref\datos.dll
