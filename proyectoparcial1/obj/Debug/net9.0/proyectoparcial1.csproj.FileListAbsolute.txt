@@ -1,0 +1,8 @@
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.GeneratedMSBuildEditorConfig.editorconfig
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.AssemblyInfoInputs.cache
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.AssemblyInfo.cs
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.csproj.CoreCompileInputs.cache
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.MvcApplicationPartsAssemblyInfo.cache
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.RazorAssemblyInfo.cache
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.RazorAssemblyInfo.cs
+A:\dotnet\proyectoparcial1\obj\Debug\net9.0\proyectoparcial1.sourcelink.json

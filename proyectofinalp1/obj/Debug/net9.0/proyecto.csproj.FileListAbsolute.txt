@@ -1,0 +1,8 @@
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.AssemblyInfoInputs.cache
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.AssemblyInfo.cs
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.csproj.CoreCompileInputs.cache
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.MvcApplicationPartsAssemblyInfo.cache
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.RazorAssemblyInfo.cache
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.RazorAssemblyInfo.cs
+A:\dotnet\proyectofinalp1\obj\Debug\net9.0\proyecto.sourcelink.json

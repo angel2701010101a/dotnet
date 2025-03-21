@@ -1,0 +1,59 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web
+            apps with ASP.NET Core</a>.</p>
+    <table id="tablaAlumnos" class="table table-bordered table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellidos</th>
+                <th scope="col">Parcial 1</th>
+                <th scope="col">Parcial 2</th>
+                <th scope="col">Parcial 3</th>
+                <th scope="col">Ext</th>
+                <th scope="col">Promedio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.dts.Tables[0].Rows.Count; i++)
+            {
+                <tr>
+                    <td>@Model.dts.Tables[0].Rows[i]["id"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Nombre"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Apellido"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Parcial1"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Parcial2"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Parcial3"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Ext"]</td>
+                    <td>@Model.dts.Tables[0].Rows[i]["Promedio"]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#tablaAlumnos').DataTable({
+                "paging": false,    
+                "searching": true,  
+                "info": false,     
+                "lengthChange": false, 
+                "language": {
+                    "search": "Buscar:",
+                    "paginate": {
+                        "next": "Siguiente",
+                        "previous": "Anterior"
+                    }
+                }
+            });
+        });
+    </script>
+}
