@@ -30,16 +30,11 @@ body {
   text-align: start;
 }
 
-#graficoAprovechamiento
-
-#graficoMejoresAlumnos
-
-#graficoModaCalificaciones
-
-#graficoAprobados {
-    width: 700px !important;  /* Ancho */
-    height: 400px !important; /* Alto */
-    max-width: 100%;          /* Ajuste responsivo */
-    display: block;           /* Asegurar que el canvas no se comporte como inline */
-    margin: 20px auto;        /* Centrar los gráficos */
+#graficoAprobados 
+{
+    width: 700px !important;  
+    height: 400px !important; 
+    max-width: 100%;          
+    display: block;          
+    margin: 20px auto;        
 }

@@ -38,7 +38,7 @@
         </tbody>
     </table>
 
-   <!-- ✅ Gráficos para las estadísticas -->
+
     <h3>Aprovechamiento General</h3>
     <canvas id="graficoAprovechamiento" ></canvas>
 
@@ -57,7 +57,7 @@
         $(document).ready(function () {
             console.log("Inicializando DataTables y gráficos con Chart.js...");
 
-            // ✅ Inicializar DataTables
+
             $('#tablaAlumnos').DataTable({
                 "paging": false,   
                 "searching": true, 
@@ -73,7 +73,7 @@
                 }
             });
 
-            // ✅ Extraer datos del XML y pasarlos a JavaScript
+
             var nombres = [];
             var apellidos = [];
             var promedios = [];
@@ -91,7 +91,7 @@
             console.log("Apellidos:", apellidos);
             console.log("Promedios:", promedios);
 
-            // ✅ Gráfico de Aprovechamiento General (Barras)
+        
             var ctxAprovechamiento = document.getElementById("graficoAprovechamiento").getContext("2d");
             new Chart(ctxAprovechamiento, {
                 type: 'bar',
@@ -105,7 +105,7 @@
                 }
             });
 
-            // ✅ Gráfico de Mejores Alumnos (Top 5 con mejores promedios)
+      
             var topNombres = nombres.slice(0, 5);
             var topApellidos = apellidos.slice(0, 5);
             var topPromedios = promedios.slice(0, 5);
@@ -124,7 +124,7 @@
                 }
             });
 
-            // ✅ Gráfico de Moda de Calificaciones (Distribución de calificaciones)
+       
             var modaNotas = [6, 7, 8, 9, 10].map(rango => promedios.filter(p => p >= rango && p < rango + 10).length);
 
             var ctxModa = document.getElementById("graficoModaCalificaciones").getContext("2d");
@@ -140,7 +140,7 @@
                 }
             });
 
-            // ✅ Gráfico de Porcentaje de Aprobados y Reprobados (Pastel)
+      
             var aprobados = promedios.filter(p => p >= 7).length;
             var reprobados = promedios.length - aprobados;
 

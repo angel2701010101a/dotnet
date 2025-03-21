@@ -392,4 +392,4 @@ A:\dotnet\PrimerParciall\obj\Debug\net9.0\refint\Finally.dll
 A:\dotnet\PrimerParciall\obj\Debug\net9.0\Finally.pdb
 A:\dotnet\PrimerParciall\obj\Debug\net9.0\Finally.genruntimeconfig.cache
 A:\dotnet\PrimerParciall\obj\Debug\net9.0\ref\Finally.dll
-A:\dotnet\PrimerParciall\obj\Debug\net9.0\compressed\n3wae6c807-yervg6loqg.gz
+A:\dotnet\PrimerParciall\obj\Debug\net9.0\compressed\n3wae6c807-fivr4qcn39.gz

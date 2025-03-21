@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4HjO9kd0AKk3B3/v/6AMS3YeuljRlmXYfQvd8n3DYC0=",
+  "Hash": "F+gHRYpfRSSfvBwbY37ttI+P1Q51ELF+cBIRoJmzYkg=",
   "Source": "Finally",
   "BasePath": "_content/Finally",
   "Mode": "Default",
@@ -857,12 +857,12 @@
       "OriginalItemSpec": "A:\\dotnet\\PrimerParciall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-yervg6loqg.gz",
+      "Identity": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-fivr4qcn39.gz",
       "SourceId": "Finally",
       "SourceType": "Discovered",
       "ContentRoot": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Finally",
-      "RelativePath": "css/site#[.{fingerprint=yervg6loqg}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=fivr4qcn39}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +871,8 @@
       "RelatedAsset": "A:\\dotnet\\PrimerParciall\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gkour1l630",
-      "Integrity": "4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc=",
+      "Fingerprint": "ckgajdjqfu",
+      "Integrity": "XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\dotnet\\PrimerParciall\\wwwroot\\css\\site.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yervg6loqg",
-      "Integrity": "itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8=",
+      "Fingerprint": "fivr4qcn39",
+      "Integrity": "uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2771,12 +2771,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-yervg6loqg.gz",
+      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-fivr4qcn39.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001960784314"
+          "Quality": "0.002518891688"
         }
       ],
       "ResponseHeaders": [
@@ -2786,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "509"
+          "Value": "396"
         },
         {
           "Name": "ETag",
-          "Value": "\"4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc=\""
+          "Value": "\"XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2814,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8=\""
+          "Value": "W/\"uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8="
+          "Value": "sha256-uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks="
         }
       ]
     },
@@ -2835,7 +2835,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1064"
+          "Value": "854"
         },
         {
           "Name": "Content-Type",
@@ -2843,11 +2843,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8=\""
+          "Value": "\"uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2857,13 +2857,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8="
+          "Value": "sha256-uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-yervg6loqg.gz",
+      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-fivr4qcn39.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2872,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "509"
+          "Value": "396"
         },
         {
           "Name": "Content-Type",
@@ -2880,11 +2880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc=\""
+          "Value": "\"XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2902,18 +2902,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc="
+          "Value": "sha256-XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8="
         }
       ]
     },
     {
-      "Route": "css/site.yervg6loqg.css",
-      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-yervg6loqg.gz",
+      "Route": "css/site.fivr4qcn39.css",
+      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-fivr4qcn39.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001960784314"
+          "Quality": "0.002518891688"
         }
       ],
       "ResponseHeaders": [
@@ -2923,15 +2923,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "509"
+          "Value": "396"
         },
         {
           "Name": "ETag",
-          "Value": "\"4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc=\""
+          "Value": "\"XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2951,13 +2951,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8=\""
+          "Value": "W/\"uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yervg6loqg"
+          "Value": "fivr4qcn39"
         },
         {
           "Name": "label",
@@ -2965,12 +2965,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8="
+          "Value": "sha256-uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks="
         }
       ]
     },
     {
-      "Route": "css/site.yervg6loqg.css",
+      "Route": "css/site.fivr4qcn39.css",
       "AssetFile": "A:\\dotnet\\PrimerParciall\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2980,7 +2980,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1064"
+          "Value": "854"
         },
         {
           "Name": "Content-Type",
@@ -2988,11 +2988,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8=\""
+          "Value": "\"uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yervg6loqg"
+          "Value": "fivr4qcn39"
         },
         {
           "Name": "label",
@@ -3010,13 +3010,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-itSsadO+hVAyZLNwqpDpvCEOzOrVcpbU5pQo9hmCsS8="
+          "Value": "sha256-uXvN2/sBTmXInst3SJXTXcLzcM7ChUivkGuDrqPUwks="
         }
       ]
     },
     {
-      "Route": "css/site.yervg6loqg.css.gz",
-      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-yervg6loqg.gz",
+      "Route": "css/site.fivr4qcn39.css.gz",
+      "AssetFile": "A:\\dotnet\\PrimerParciall\\obj\\Debug\\net9.0\\compressed\\n3wae6c807-fivr4qcn39.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3025,7 +3025,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "509"
+          "Value": "396"
         },
         {
           "Name": "Content-Type",
@@ -3033,11 +3033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc=\""
+          "Value": "\"XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 07:59:41 GMT"
+          "Value": "Fri, 21 Mar 2025 08:42:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3055,7 +3055,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yervg6loqg"
+          "Value": "fivr4qcn39"
         },
         {
           "Name": "label",
@@ -3063,7 +3063,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4EYZJghFyfZ0IkNxy5FKRPk6Lg/OvLvWEjJVxyL9jQc="
+          "Value": "sha256-XGlwkeu1MapR6HhIxhg+udqXAn+BbU0EclITq19WVo8="
         }
       ]
     },
